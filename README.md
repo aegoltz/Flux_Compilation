@@ -3,7 +3,7 @@ Contains compilation associated with Till et al. submitted manuscript
 
 Here, we provide the data needed to reproduce figures and statistics in the manuscript.
 
-The file "All_Long_Term_Rates_Updated_8_26" contains the compiled values for erupted flux, mantle-derived magma flux, and crustal addition rate. 
+The file "All_Long_Term_Rates_Updated_9_26" contains the compiled values for erupted flux, mantle-derived magma flux, and crustal addition rate. 
 
 Description of variables: 
 
@@ -47,4 +47,4 @@ Volume method: General description of the method used to estimate the volume
 
 The file "Cumulative_Volume_Data" contains a subset of data used to construct the cumulative volume plot in the manuscript
 
-The file "Figures_And_Statistics_Aug26.R" is an R code that can be used to analyze eruptive, crustal, and mantle fluxes and reproduce statistics and figures in the publication. To use this code, you must download R and RStudio (need help? Follow steps in this guide: https://docs.posit.co/ide/user/). Download this repository and put it in a folder. Open RStudio, create a new project, and set the directory to the folder where you put the repository items. You should now be able to run the code. This code was developed using R version 4.4.3. If issues arise with this code, please email the corresponding author.
+The file "Figures_And_Statistics_Sept26.R" is an R code that can be used to analyze eruptive, crustal, and mantle fluxes and reproduce statistics and figures in the publication. To use this code, you must download R and RStudio (need help? Follow steps in this guide: https://docs.posit.co/ide/user/). Download this repository and put it in a folder. Open RStudio, create a new project, and set the directory to the folder where you put the repository items. You should now be able to run the code. This code was developed using R version 4.4.3. If issues arise with this code, please email the corresponding author.
