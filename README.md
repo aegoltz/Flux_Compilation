@@ -48,3 +48,23 @@ Volume method: General description of the method used to estimate the volume
 The file "Cumulative_Volume_Data" contains a subset of data used to construct the cumulative volume plot in the manuscript
 
 The file "Figures_And_Statistics_Sept26.R" is an R code that can be used to analyze eruptive, crustal, and mantle fluxes and reproduce statistics and figures in the publication. To use this code, you must download R and RStudio (need help? Follow steps in this guide: https://docs.posit.co/ide/user/). Download this repository and put it in a folder. Open RStudio, create a new project, and set the directory to the folder where you put the repository items. You should now be able to run the code. This code was developed using R version 4.4.3. If issues arise with this code, please email the corresponding author.
+
+The file "syneruptive_rates" contains all the compiled data for the syn-eruptive decompression sections of the manuscript. The variables are as follows:
+
+Rate (m/s): The calculated decompression rate
+
+LogRate: The logarithm of the calculated decompression rate
+
+Method: The method used to calculate decompression rate, with the different categories explained in the main text
+
+Composition: The bulk composition of the eruption of interest
+
+Style: The eruption style of the eruption of interest, either explosive or effusive
+
+Volcano: The volcano from which the decompression rate was calculated
+
+Notes: Any clarifying information needed to uniquely identify the calculated decompression rate
+
+Reference: The in-text style citation to identify the source of the calculated decompression rate
+
+DOI: The DOI for each reference for ease of identifying specific references
