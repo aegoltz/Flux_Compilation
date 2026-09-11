@@ -68,3 +68,21 @@ Notes: Any clarifying information needed to uniquely identify the calculated dec
 Reference: The in-text style citation to identify the source of the calculated decompression rate
 
 DOI: The DOI for each reference for ease of identifying specific references
+
+The file "crustal_mantle_rates.xlsx" contains all the compiled data for sections on magmatic ascent and decompression rates in the mantle and crust. The variables are as follows:
+
+Rate (m/d): The calculated decompression rate in units of meters/day
+
+LogRate: The logarithm of the calculated decompression rate
+
+Type: The type of ascent rate estimate based on location: intramantle, intracrustal, or mantle to surface.
+
+Notes: Any clarifying information needed to uniquely identify the calculated decompression rate
+
+Depth of Origin: An estimate of the pressure where the magmatic ascent/decompression rate began - taken from the reference.
+
+Method for Depth of Origin Estimate: What tools/methods were used to make the depth of origin estimate?
+
+Reference: The in-text style citation to identify the source of the calculated decompression rate
+
+DOI: The DOI for each reference for ease of identifying specific references
